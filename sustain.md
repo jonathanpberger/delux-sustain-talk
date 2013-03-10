@@ -4,20 +4,21 @@ deLUX Austin, 2013
 Jonathan Berger, Pivotal Labs
 
 ---
+
 # Hi!
 
 ---
 
 # I'm @jonathanpberger
 
+---
 
 - My background is in
   - **philosophy** and then
   - **design** and now
   - **development**
 
-- I read and write code every day to build products at **@pivotallabs**
-
+- I read and write code every day to build products and practice at **@pivotallabs**
 
 ---
 
@@ -37,6 +38,13 @@ Hey designers, does this
 
 ---
 
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
+
+---
+
 Software development has been revolutionized by Agile practices
 
 # BUT
@@ -45,9 +53,9 @@ designers struggle to adapt the same techniques
 
 ---
 
-#TL;DR
-- Designers will benefit from adopting agile techniques.
-- We should start with Sustainable Pace.
+## TL;DR
+- Designers will benefit from adopting Agile techniques,
+- We should start with Sustainable Pace,
 - This is a cultural shift we'll need to advocate for.
 
 ---
@@ -55,13 +63,14 @@ designers struggle to adapt the same techniques
 # Why Now?
 - The Lean UX book is out!
 - We're starting to codify some of these techniques!
-- Now is a great time to review the intersection of Agile and Design
+- Now is an opportune time to review the intersection of Agile and Design
 
 ---
 
 # Origin Story
 
 ---
+
 I started as
 # a self-taught designer
 
@@ -75,6 +84,7 @@ I worked on [Spot.Us](http://spot.us) and
 # I wanted to bring Agile to design.
 
 ---
+
 I found Pivotal, and
 # they needed an Agile designer
 
@@ -91,9 +101,12 @@ Now Pivotal is building
 
 # 3 big areas for improvement:
 
-- Acceptance Criteria-delimited design stories (what counts as 'done'?),
-- Meaningful estimation of work for design (when will it be done?),
-- A culture that values Sustainable Pace (how can we keep doing it?).
+- Acceptance Criteria-delimited design stories
+	- (what counts as 'done'?)
+- Meaningful estimation of work for design
+	- (when will it be done?)
+- A culture that values Sustainable Pace
+	- (how can we keep doing it?)
 
 ---
 
@@ -109,7 +122,7 @@ Now Pivotal is building
 
 # Estimation of work
 
-- is hard too.
+## is hard too.
 - And it depends on Acceptance Criteria.
 
 <!-- The unit of work for the “what” of the story is “what’s the smallest possible thing that delivers value to the user?” and the “how” of the story is “what’s the simplest possible thing that can work?”. These units of work tend to translate poorly to design, because effective graphic design is almost always a system. Changing arbitrary pieces tends to degrade the whole.
@@ -125,44 +138,46 @@ to maintain a constant pace indefinitely.
 
 ---
 
-# What does it mean to maintain a constant pace indefinitely in design?
+# What does it mean
+## to maintain a constant pace indefinitely in design?
 
-<!-- ---
-
-# Pame sez
-
-> I'm already lean, why do I need Sustainable Pace? -->
+- A healthy, human practice (TimeOut, ping pong, 40-hour weeks)
+- <s>rock stars</s>
+- Build and share a better toolkit
+	- repeatable ideas / technique technique
+	- a lot of this work is already being done by the Lean UX movement
+	- it helps to recognize it as such and build the Ubiquitous Language
 
 ---
 
 # Why Sustainable Pace First?
 
-- its the most in our control
-- its the foundation upon which we can build these other things
-- we deserve to be happy
-- it attacks the cult of the rock star
-- it'll require a shift in our billing model (area of greatest risk)
+---
+
+# Area of greatest risk
+
+- it requires a shift in the traditional design fixed-bid billing model
 
 ---
-# What do we have to do?
 
-- We have to spread the word,
-- argue about it,
-- argue for it.
+## Why Sustainable Pace First?
+
+- It's the most in our control
+- It's the foundation upon which we can build these other things
+- Designers deserve to be happy!
 
 ---
+
 # It'll be an uphill battle
 - But it's only a messaging problem (not a product problem).
 
 ---
 
-# What does it mean
-(besides 40-hr weeks?)
+# What ought we do?
 
-- better tools
-	- repeatable ideas / technquiue technigue (look at the TQ tag on the design reto)
-- a lot of this work is already being done by the Lean UX movement
-- it helps to recognize it as such
+- We have to spread the word,
+- argue about it,
+- argue for it.
 
 ---
 
