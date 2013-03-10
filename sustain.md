@@ -108,28 +108,6 @@ Now Pivotal is building
 - A culture that values Sustainable Pace
 	- (how can we keep doing it?)
 
----
-
-# Acceptance Criteria
-
-## is hard.
-
-- It'll require a better taxonomy of "done"
-- The best design deliverable is the Simplest Thing That Can Possibly Communicate the Design Solution,
-- this can vary from team to team and design problem to design problem.
-
----
-
-# Estimation of work
-
-## is hard too.
-- And it depends on Acceptance Criteria.
-
-<!-- The unit of work for the “what” of the story is “what’s the smallest possible thing that delivers value to the user?” and the “how” of the story is “what’s the simplest possible thing that can work?”. These units of work tend to translate poorly to design, because effective graphic design is almost always a system. Changing arbitrary pieces tends to degrade the whole.
- -->
-
----
-
 # Sustainable pace
 
 > Agile processes promote sustainable development.
@@ -143,10 +121,7 @@ to maintain a constant pace indefinitely.
 
 - A healthy, human practice (TimeOut, ping pong, 40-hour weeks)
 - <s>rock stars</s>
-- Build and share a better toolkit
-	- repeatable ideas / technique technique
-	- a lot of this work is already being done by the Lean UX movement
-	- it helps to recognize it as such and build the Ubiquitous Language
+- Build and share a better toolkit (a lot of this work is already being done by the Lean UX movement)
 
 ---
 
@@ -173,7 +148,7 @@ to maintain a constant pace indefinitely.
 
 ---
 
-# What ought we do?
+## What ought we do?
 
 - We have to spread the word,
 - argue about it,
