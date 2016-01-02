@@ -6,7 +6,6 @@
   position: absolute;
   bottom: 0;
   background-color: #222;
-  background-color: #0d3552;
   color: #fcfcfc;
   width: 100%;
   margin: -1em -4em; /*counteract padding on top element */
@@ -33,6 +32,12 @@
 .remark-slide-footer .twitter {
   position: absolute;
   left: 44%;
+  line-height: 3em;
+}
+
+.remark-slide-footer .description {
+  position: absolute;
+  left: 4%;
   line-height: 3em;
 }
 
